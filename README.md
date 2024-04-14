@@ -8,4 +8,5 @@ ntzoe's home
 ```shell
     git clone https://github.com/ngtnthori03/ntzoe-home $NTZOE_HOME_DIR
 ```
+4. now you can working with my tools (mssql-space, tomcat-space, ...)
 
